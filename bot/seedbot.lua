@@ -233,7 +233,7 @@ function create_config( )
     "admin",
     "linkpv"
     },
-    sudo_users = {37194141,174665816,175531746,},--Sudo users
+    sudo_users = {170774776},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[The Anti Spammer Zeus V2
