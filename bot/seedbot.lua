@@ -212,6 +212,7 @@ function create_config( )
     "calculator",
     "chat",
     "robot",
+    "me",
     "auto_leave",
     "plugins",
     "inrealm",
@@ -236,19 +237,7 @@ function create_config( )
     sudo_users = {170774776},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[The Anti Spammer Zeus V2
- 
- مديران ربات: 
-@Larnog
-@Ananymous0
-@Redteam_02_00
-
-  تشکر ويژه از:
-Blackwolf_admin
-Amincmp  
-
-خبرنامه ربات:
-@Zeus_ch
+    about_text = [[
 ]],
     help_text_realm = [[
 Realm Commands:
