@@ -5,23 +5,23 @@ end
 if msg.text == "سلام" then
 	return "سلام"
 end
-if msg.text == "slm" then
-	return "سلام"
+if msg.text == "MRROBOT" then
+	return "جونم"
 end
-if msg.text == "خوبی؟" then
+if msg.text == "خوبی" then
 	return "ممنون تو خوبی؟"
 end
-if msg.text == "کیر" then
-	return "تو ننه جندت"
+if msg.text == "؟" then
+	return "بله"
 end
-if msg.text == "لارنوگم" then
-	return "فدات بابا"
+if msg.text == "رضا" then
+	return "با بابای من چیکار داری"
 end
-if msg.text == "بسیک" then
-	return "بیا بساک"
+if msg.text == "@IM_REZA_MI" then
+	return "با بابای من چیکار داری"
 end
-if msg.text == "لارنوگ" then
-	return "آیدیش اینه  @larnog"
+if msg.text == "بای" then
+	return "بای"
 end
 if msg.text == "مرسی" then
 	return "فدات"
@@ -34,12 +34,12 @@ return {
 	patterns = {
 	"^وضعیت",
 	"^سلام",
-	"^slm$",
-	"^خوبی؟",
-	"^کیر",
-	"^لارنوگم",
-	"^بسیک",
-	"^لارنوگ",
+	"^MRROBOT$",
+	"^خوبی",
+	"^؟",
+	"^رضا",
+	"^@IM_REZA_MI",
+	"^بای",
 	"^مرسی",
 		
 		}, 
