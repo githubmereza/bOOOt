@@ -48,7 +48,7 @@ local function run(msg, matches)
    elseif matches[1] == "gp" then
       -- !ids? (chat) (%d+)
       if matches[2] and is_sudo(msg) then
-         local chat = 'chat#id'..matches[2]
+         local chat = 'Group id'..matches[2]
          chat_info(chat, returnids, {receiver=receiver})
       else
          if not is_chat_msg(msg) then
