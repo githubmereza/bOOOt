@@ -233,6 +233,7 @@ function create_config( )
     "antilink",
     "admin",
     "linkpv"
+    "img",
     },
     sudo_users = {170774776},--Sudo users
     disabled_channels = {},
