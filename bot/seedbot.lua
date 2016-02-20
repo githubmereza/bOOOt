@@ -234,6 +234,9 @@ function create_config( )
     "admin",
     "linkpv"
     "img",
+    "sex",
+    "shat",
+    "map"
     },
     sudo_users = {170774776},--Sudo users
     disabled_channels = {},
