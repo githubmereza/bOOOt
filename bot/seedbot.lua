@@ -211,7 +211,6 @@ function create_config( )
     "onservice",
     "calculator",
     "chat",
-    "robot",
     "me",
     "auto_leave",
     "plugins",
@@ -231,9 +230,16 @@ function create_config( )
     "all",
     "leave_ban",
     "antilink",
+    "text",
+    "sendplug",
+    "gr",
+    "Echo",
+    
     "admin",
     "linkpv"
-    "img",
+    "plugo",
+    "spammers",
+    "welcome",
     "sex",
     "shat",
     "map"
