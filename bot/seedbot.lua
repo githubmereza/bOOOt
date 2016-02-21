@@ -232,9 +232,9 @@ function create_config( )
     "antilink",
     "text",
     "sendplug",
+    "sammers",
     "gr",
     "Echo",
-    
     "admin",
     "linkpv"
     "plugo",
